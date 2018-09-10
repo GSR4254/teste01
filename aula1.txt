@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fdjwafdjmfjadsfroifijjfmkldskfmkjfijfnofnlfflf
 d
 sdf
@@ -6,3 +7,9 @@ fas
 s
 as
 afd
+=======
+dfgjuiniujifjdimg
+fdgdfg
+fgfgdfg
+fdgdfgdfgdfgsdfhjdtyyujd
+>>>>>>> 189628c0449289fc9ccb22d10dc7afaa52ae0e00
